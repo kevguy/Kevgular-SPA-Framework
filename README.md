@@ -4,6 +4,11 @@ This project is a sample responsive SPA framework. It is a feature-rich menu sys
 
 [LiveDemo](http://kevgular-spa-framework.herokuapp.com/)
 
+##Screenshots:
+<img src="spa01.png" width="50%">
+<img src="spa02.png" width="50%">
+<img src="spa03.png" width="50%">
+
 ### Running the application:
 
 Navigate to the project folder where you can see index.html, run 'lite-server' and your browser should automatically pop up the page. If you haven't installed lite-server yet, just run `sudo npm install lite-server -g`.
